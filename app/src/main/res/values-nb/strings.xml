@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="history">Historie</string>
+    <string name="yo_placeholder">Skriv inn yo</string>
+    <string name="name_placeholder">Skriv inn navn</string>
+    <string name="action_refresh">Oppdater</string>
+</resources>
